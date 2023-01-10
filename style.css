@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+h1{
+    background: rgb(64, 175, 179);
+    width: 20%;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 5px;
+}
+h3{
+    background: rgb(114, 216, 219);
+    width: 20%;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 5px;
+}
+p{
+    background: rgb(209, 240, 242);
+    padding: 20px;
+    margin: 20px;
+}
